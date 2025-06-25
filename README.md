@@ -208,8 +208,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 12. Contact   https://t.me/Inqusitive41
 --------------------------------------------------------------------------------
 
-For questions or collaboration, please contact [placeholder email] or open an issue on the GitHub repository once hosted.
 
-================================================================================
-END OF README
-================================================================================ 
